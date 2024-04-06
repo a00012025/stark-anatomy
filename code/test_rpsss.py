@@ -78,3 +78,4 @@ def test_fast_rpsss( ):
 
     print("size of signature:", len(sig), "bytes, or ", len(sig) / (2**13), "kB")
 
+test_fast_rpsss()
